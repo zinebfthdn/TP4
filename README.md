@@ -92,15 +92,6 @@ spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MariaDBDialect
 
 <h3>2. Lancer l'application</h3>
 <ol>
-    <li>Clonez le repository et naviguez dans le dossier du projet :</li>
-    <pre>
-    git clone [URL_DU_REPOSITORY]
-    cd [NOM_DU_PROJET]
-    </pre>
-    <li>Exécutez le projet avec Maven :</li>
-    <pre>
-    mvn spring-boot:run
-    </pre>
     <li>Accédez à l'application via <a href="http://localhost:8083">http://localhost:8083</a>.</li>
 </ol>
 
