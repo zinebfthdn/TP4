@@ -23,6 +23,7 @@ La base de données utilisée est <strong>MySQL</strong>, avec création automat
 
 <h2>Structure du Projet</h2>
 <p>Le projet suit une architecture bien structurée respectant le paradigme <strong>MVC (Modèle-Vue-Contrôleur)</strong>.</p>
+
 <img src="/screens/structure.png" alt="Structure du Projet" />
 
 <h3>1. Package <code>entities</code></h3>
